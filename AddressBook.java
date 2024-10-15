@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-// diep testing
+// diep testing, fixing this one first.
 public class AddressBook {
     static ArrayList<Contact> contacts = new ArrayList<Contact>();
     static Scanner input = new Scanner(System.in);
